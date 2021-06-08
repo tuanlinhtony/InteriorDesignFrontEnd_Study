@@ -34,6 +34,18 @@ html,body{
   background-position: center;
   height: 550px;
 }
+/* Intro */
+.intro__text{
+  font-size: 20px;
+}
+.intro__text span{
+  color: red;
+  font-weight: bold;
+}
+.intro__left, .intro__right{
+  float: left;
+  width: 50%;
+}
 /* Products */
 .products{
   margin-bottom: 70px;
