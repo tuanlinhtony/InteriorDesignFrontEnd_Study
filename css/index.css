@@ -98,9 +98,21 @@ html,body{
 .banner__circle{
   width: 300px;
   height: 300px;
-  background-color: #832927;
+  background-color: rgba(131, 41, 39, 0.73);
   color: white;
   border-radius: 50%;
   text-align: center;
-  opacity: 70%;
+}
+.banner__circle p{
+  font-size: 20px;
+  margin: 0 0 20px;
+}
+.banner__circle p:first-child{
+  font-size: 30px;
+  margin: 50px 0 0;
+}
+.banner__circle p:nth-child(2){
+  font-size: 80px;
+  margin: 0;
+
 }
