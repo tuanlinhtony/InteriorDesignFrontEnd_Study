@@ -129,6 +129,7 @@ html,body{
 .services__item{
   float: left;
   width: 33.33%;
+  padding: 20px 0;
 }
 .services__item i{
   font-size: 40px;
