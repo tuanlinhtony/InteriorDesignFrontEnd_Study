@@ -132,11 +132,29 @@ html,body{
   padding: 20px 0;
 }
 .services__item i{
+  margin: 10px auto;
   font-size: 40px;
 }
 .services__item h2{
+  font-size: 20px;
   margin: 10px 0;
 }
 .services__item p{
+  margin: auto;
+  width: 90%;
+}
+
+/* FOOTER */
+.footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+.footer h2, .footer p{
   margin: 0;
+}
+
+.footer h2{
+  font-size: 30px;
 }
